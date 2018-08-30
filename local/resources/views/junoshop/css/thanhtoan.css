@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.left{
+	float: left;
+}
+#header .checkout .left{
+	padding-top: 60px;
+	padding-left: 120px;
+	width: 800px;
+}
+#menu .breadcrumb li{
+	display: inline-block;
+}
+#menu .breadcrumb{
+	width: 500px;
+}
+#menu .breadcrumb span{
+	padding-left: 0.5rem;
+	padding-right: 0.5rem;
+}
+.col-12{
+	max-width: 100%;
+}
+.check-form input{
+	border: 1px solid grey;
+	border-radius: 0.25rem;
+	line-height: 40px;
+	width: 500px;
+}
+.check-form label{
+	display: inline-block;
+}
+.email input{
+	border: 1px solid grey;
+	border-radius: 0.25rem;
+	line-height: 40px;
+	width: 500px;
+}
+.sdt input{
+	border: 1px solid grey;
+	border-radius: 0.25rem;
+	line-height: 40px;
+	width: 500px;
+}
+.complete .btn{
+	background: #DC3545;
+	color: #FFF;
+	margin-top: 33px;
+}
+.right{
+	background: #FAFAFA;
+	padding-top: 60px;
+    margin-left: 750px;
+    padding-right: 5.5rem;
+    width: 600px;
+}
+.right .container .row .table .img{
+	width: 60px;
+	height: 60px;
+}
+#header .breadcrumb{
+  background-color: #FFF;
+}
